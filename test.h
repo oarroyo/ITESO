@@ -1,6 +1,6 @@
-//test.c
+#ifndef TEST_H
+#define TEST_H
 
-int test(void){
-	return 1;
-}
+int test(void);
 
+#endif
